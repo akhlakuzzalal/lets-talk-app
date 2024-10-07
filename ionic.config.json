@@ -1,0 +1,7 @@
+{
+  "name": "letsTalk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
